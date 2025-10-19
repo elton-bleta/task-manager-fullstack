@@ -98,4 +98,4 @@ MIT
 
 ## 👨‍💻 Author
 
-Your Name
+Elton Bleta
